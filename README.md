@@ -41,7 +41,8 @@ Candidate for Master's in Information Management | Specialized in Software Devel
 
 ### 🏆 Achievements & Certifications
 - 📜 **Gemini Certified Educator** 
-- 🏅 **Honorable Mention**, Nantou County AI Creative Workshop 
+- 🏅 **Honorable Mention**, Nantou County AI Creative Workshop
+<img width="2569" height="3577" alt="Image" src="https://github.com/user-attachments/assets/d4fad2dd-e021-4546-9304-42f43c620fbd" /> 
 - ✍️ **iT 鐵人賽 Finisher**, Vue.js Category (2025) 
 
 ---
