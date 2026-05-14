@@ -40,15 +40,17 @@ Candidate for Master's in Information Management | Specialized in Software Devel
 ---
 
 ### 🏆 Achievements & Certifications
-- 📜 **Gemini Certified Educator** 
+- 📜 **Gemini Certified Educator**
+  <img width="771" height="556" alt="Image" src="https://github.com/user-attachments/assets/ec53a0de-3ded-4157-b1e0-2d29f6b3c771" />
 - 🏅 **Honorable Mention**, Nantou County AI Creative Workshop
-<img width="256" height="357" alt="Image" src="https://github.com/user-attachments/assets/d4fad2dd-e021-4546-9304-42f43c620fbd" /> 
+  <img width="256" height="357" alt="Image" src="https://github.com/user-attachments/assets/d4fad2dd-e021-4546-9304-42f43c620fbd" /> 
 - ✍️ **iT 鐵人賽 Finisher**, Vue.js Category (2025) 
-
+  <img width="388" height="555" alt="Image" src="https://github.com/user-attachments/assets/42dabe8f-ee68-4403-ace1-619247e105a6" />
 ---
 
 ### 🌐 Languages
-- **English:** **TOEIC 845** (Gold Certificate potential) 
+- **English:** **TOEIC 845** (Gold Certificate potential)
+  <img width="750" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e127dede-c31d-4443-96e6-5b84a5d03aea" />
 - **Oxford Placement Test:** **C1 Advanced** (Score: 86) 
 - **Professional:** Experience in English technical presentations 
 
