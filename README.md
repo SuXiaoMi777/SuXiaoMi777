@@ -3,28 +3,28 @@
 Candidate for Master's in Information Management | Specialized in Software Development & AI Security
 
 ### 👨‍💻 About Me
-- [cite_start]🎓 Currently a senior at **National Chi Nan University (NCNU)**, Department of Information Management[cite: 14, 15].
-- [cite_start]🏫 Completed the **Software Talent Development Program**[cite: 733, 738].
-- [cite_start]🛡️ Passionate about **Cybersecurity**, specifically focusing on the security of Large Language Models (LLMs)[cite: 150, 153].
+- 🎓 Currently a senior at **National Chi Nan University (NCNU)**, Department of Information Management.
+- 🏫 Completed the **Software Talent Development Program**.
+- 🛡️ Passionate about **Cybersecurity**, specifically focusing on the security of Large Language Models (LLMs).
 
 ---
 
 ### 🚀 Key Projects
 
 #### [All in One, C語言線上 AI 互動學習平台](https://github.com/yourusername/project-repo)
-*Graduation Project* | [cite_start]*Role: Frontend Developer & API Integration* [cite: 225, 370]
-- [cite_start]**Tech Stack:** C, Docker, WebSocket, GAI API[cite: 207, 211, 284, 356].
-- [cite_start]**Core Contribution:** Developed real-time compilation tracking, memory simulation visualization, and integrated AI tutors to provide logic suggestions without direct answers[cite: 211, 212, 336].
-- [cite_start]**Highlight:** Used Docker sandboxing to isolate execution environments and ensure server security[cite: 356].
+*Graduation Project* | *Role: Frontend Developer & API Integration*
+- **Tech Stack:** C, Docker, WebSocket, GAI API.
+- **Core Contribution:** Developed real-time compilation tracking, memory simulation visualization, and integrated AI tutors to provide logic suggestions without direct answers.
+- **Highlight:** Used Docker sandboxing to isolate execution environments and ensure server security.
 
 #### [LLM Security Research: Prompt Injection Defense](https://github.com/yourusername/research-repo)
-[cite_start]*Research Project* [cite: 149, 152]
-- [cite_start]**Focus:** Investigating model trust based on OWASP Top 10 for LLMs[cite: 153, 156].
-- [cite_start]**Implementation:** Developed defense mechanisms for **Prompt Injection**, **Model Poisoning**, and **Improper Output** via RAG auditing and output validation[cite: 178, 184, 185].
+*Research Project*
+- **Focus:** Investigating model trust based on OWASP Top 10 for LLMs.
+- **Implementation:** Developed defense mechanisms for **Prompt Injection**, **Model Poisoning**, and **Improper Output** via RAG auditing and output validation.
 
 #### [E-asy Tooth (牙易通)](https://github.com/yourusername/app-repo)
-[cite_start]*App UI/UX Development* [cite: 378, 381]
-- [cite_start]**Innovation:** Streamlined dental appointment processes from manual phone calls to automated app-based scheduling and push notifications[cite: 386, 396].
+- *App UI/UX Development* 
+- **Innovation:** Streamlined dental appointment processes from manual phone calls to automated app-based scheduling and push notifications.
 
 ---
 
