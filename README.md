@@ -47,7 +47,7 @@ Candidate for Master's in Information Management | Specialized in Software Devel
 <img width="205" height="286" alt="Image" src="https://github.com/user-attachments/assets/d4fad2dd-e021-4546-9304-42f43c620fbd" />
   
 - ✍️ **iT 鐵人賽 Finisher**, Vue.js Category (2025) 
-- <img width="233" height="333" alt="Image" src="https://github.com/user-attachments/assets/42dabe8f-ee68-4403-ace1-619247e105a6" />
+<img width="233" height="333" alt="Image" src="https://github.com/user-attachments/assets/42dabe8f-ee68-4403-ace1-619247e105a6" />
 ---
 
 ### 🌐 Languages
