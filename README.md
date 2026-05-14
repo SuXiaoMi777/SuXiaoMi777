@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there, I'm PO-AN SU (蘇柏安) 👋
 
-<!--
-**SuXiaoMi777/SuXiaoMi777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Candidate for Master's in Information Management | Specialized in Software Development & AI Security
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- [cite_start]🎓 Currently a senior at **National Chi Nan University (NCNU)**, Department of Information Management[cite: 14, 15].
+- [cite_start]🏫 Completed the **Software Talent Development Program**[cite: 733, 738].
+- [cite_start]🛡️ Passionate about **Cybersecurity**, specifically focusing on the security of Large Language Models (LLMs)[cite: 150, 153].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Key Projects
+
+#### [All in One, C語言線上 AI 互動學習平台](https://github.com/yourusername/project-repo)
+*Graduation Project* | [cite_start]*Role: Frontend Developer & API Integration* [cite: 225, 370]
+- [cite_start]**Tech Stack:** C, Docker, WebSocket, GAI API[cite: 207, 211, 284, 356].
+- [cite_start]**Core Contribution:** Developed real-time compilation tracking, memory simulation visualization, and integrated AI tutors to provide logic suggestions without direct answers[cite: 211, 212, 336].
+- [cite_start]**Highlight:** Used Docker sandboxing to isolate execution environments and ensure server security[cite: 356].
+
+#### [LLM Security Research: Prompt Injection Defense](https://github.com/yourusername/research-repo)
+[cite_start]*Research Project* [cite: 149, 152]
+- [cite_start]**Focus:** Investigating model trust based on OWASP Top 10 for LLMs[cite: 153, 156].
+- [cite_start]**Implementation:** Developed defense mechanisms for **Prompt Injection**, **Model Poisoning**, and **Improper Output** via RAG auditing and output validation[cite: 178, 184, 185].
+
+#### [E-asy Tooth (牙易通)](https://github.com/yourusername/app-repo)
+[cite_start]*App UI/UX Development* [cite: 378, 381]
+- [cite_start]**Innovation:** Streamlined dental appointment processes from manual phone calls to automated app-based scheduling and push notifications[cite: 386, 396].
+
+---
+
+### 🛠 Technical Skills
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | [cite_start]Python, C, C#, Java, SQL [cite: 44, 63] |
+| **Web / Frameworks** | [cite_start]Vue.js (iT邦幫忙 30-day Iron Man finisher), Vite [cite: 557, 566] |
+| **Tools / Systems** | [cite_start]Linux System Admin, Git, Docker, GCC, Figma [cite: 38, 45, 355, 356, 362] |
+| **AI / Data** | [cite_start]RAG, LLM Prompting, Database Management Systems [cite: 40, 158, 650] |
+
+---
+
+### 🏆 Achievements & Certifications
+- [cite_start]📜 **Gemini Certified Educator** [cite: 642, 647]
+- [cite_start]🏅 **Honorable Mention**, Nantou County AI Creative Workshop [cite: 636, 640]
+- [cite_start]✍️ **iT 鐵人賽 Finisher**, Vue.js Category (2025) 
+
+---
+
+### 🌐 Languages
+- [cite_start]**English:** **TOEIC 845** (Gold Certificate potential) [cite: 105, 106, 620]
+- [cite_start]**Oxford Placement Test:** **C1 Advanced** (Score: 86) [cite: 607, 610]
+- [cite_start]**Professional:** Experience in English technical presentations [cite: 46, 63]
+
+---
+
+### 📫 How to reach me
+- [cite_start]📍 Puli, Nantou, Taiwan (NCNU) [cite: 14]
+- [cite_start]🏫 TA Experience: Advanced Programming, Database Management [cite: 49, 50]
+- 🤝 Open for collaboration in AI security research or software development!
