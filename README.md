@@ -52,7 +52,8 @@ Candidate for Master's in Information Management | Specialized in Software Devel
 
 ### 🌐 Languages
 - **English:** **TOEIC 845** (Gold Certificate potential)
-  <img width="225" height="307" alt="Image" src="https://github.com/user-attachments/assets/e127dede-c31d-4443-96e6-5b84a5d03aea" />
+<img width="225" height="307" alt="Image" src="https://github.com/user-attachments/assets/e127dede-c31d-4443-96e6-5b84a5d03aea" />
+
 - **Oxford Placement Test:** **C1 Advanced** (Score: 86) 
 - **Professional:** Experience in English technical presentations 
 
