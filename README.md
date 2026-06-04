@@ -59,7 +59,12 @@ Candidate for Master's in Information Management | Specialized in Software Devel
 
 ---
 
-### 📫 How to reach me
+### 🏫 School
 - 📍 Puli, Nantou, Taiwan (NCNU) 
 - 🏫 TA Experience: Advanced Programming, Database Management 
 - 🤝 Open for collaboration in AI security research or software development!
+
+### 📫 Contact me
+- Gmail: andy1050118@gmail.com
+- LinkedIn: https://www.linkedin.com/in/%E6%89%93%E9%A4%85-%E8%98%87-1a1209346/
+- Github: https://github.com/SuXiaoMi777
